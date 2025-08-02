@@ -8,4 +8,4 @@ The objective of this project is to develop an interactive HR analytics dashboar
 - Support data-driven decision-making in HR operations
 
 ## 📁 Dataset Source
-<a href=https://github.com/JayaKrishna1008/BlinkIT-Product-Price-Study/blob/main/Raw%20Data.xlsx>DataSet</a>
+<a href=https://github.com/JayaKrishna1008/Tableau-HR-Analytics/blob/main/Raw%20Dataset.csv>DataSet</a>
