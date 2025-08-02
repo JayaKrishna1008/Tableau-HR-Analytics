@@ -29,5 +29,5 @@ The objective of this project is to develop an interactive HR analytics dashboar
 6. Promotion Rate
 - Why it's important: Measures internal career growth and development opportunities.
 - Visuals: Bar chart by department or tenure group.
-
+- Dashboard Interaction <a >View Dashboard</a>
 
