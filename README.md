@@ -24,6 +24,9 @@ The objective of this project is to develop an interactive HR analytics dashboar
 - Why it's important: Measures internal career growth and development opportunities?
 - Visuals: Bar chart by department or tenure group?
 
+## 📈 Dashboard
+![Dashborad Img](https://github.com/JayaKrishna1008/Tableau-HR-Analytics/blob/main/Dashboard.png)
+
 ## 🔄 Project Process
 - Data Exploration: Understood the HR dataset and identified key fields like age, gender, department, attrition, and satisfaction.
 - Data Cleaning: Removed duplicates, handled missing values, and ensured consistent formats.
@@ -31,9 +34,6 @@ The objective of this project is to develop an interactive HR analytics dashboar
 - Dashboard Creation: Built interactive visuals in Tableau using filters, charts, and calculated fields.
 - Insights & Analysis: Identified key patterns in attrition, satisfaction, and demographics.
 - Project Deployment: Packaged as .twbx.
-
-## 📈 Dashboard
-![Dashborad Img](https://github.com/JayaKrishna1008/Tableau-HR-Analytics/blob/main/Dashboard.png)
 
 ##  ✅ Final Conclusion
 This project demonstrates how data visualization can support data-driven decision-making in human resource management. With interactive features and clear KPIs, the dashboard serves as a powerful tool for identifying trends, solving retention issues, and enhancing employee engagement strategies.
